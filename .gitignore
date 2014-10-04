@@ -1,0 +1,6 @@
+.dep.inc
+*.old
+lib/
+build/
+dist/
+nbproject/private/
